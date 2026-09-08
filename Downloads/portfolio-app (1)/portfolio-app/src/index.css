@@ -1,0 +1,12 @@
+/* A few resets so the app looks consistent in every browser */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #f5f6fa;
+  color: #222;
+}

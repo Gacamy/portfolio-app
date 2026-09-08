@@ -1,0 +1,45 @@
+.project-form {
+  max-width: 700px;
+  margin: 24px auto;
+  padding: 20px;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+.project-form h2 {
+  margin-bottom: 16px;
+  font-size: 1.3rem;
+}
+
+.project-form label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 0.9rem;
+  color: #333;
+}
+
+.project-form input,
+.project-form textarea {
+  width: 100%;
+  margin-bottom: 16px;
+  padding: 8px 10px;
+  font-size: 0.95rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-family: inherit;
+}
+
+.project-form button {
+  background-color: #f0f0f0;
+  color: #222;
+  border: 1px solid #bbb;
+  padding: 8px 20px;
+  border-radius: 4px;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+.project-form button:hover {
+  background-color: #e2e2e2;
+}

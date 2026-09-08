@@ -1,0 +1,18 @@
+.project-list {
+  max-width: 700px;
+  margin: 24px auto 40px auto;
+  padding: 0 16px;
+}
+
+.project-list-inner {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.no-results {
+  text-align: center;
+  color: #777;
+  padding: 40px 0;
+}
